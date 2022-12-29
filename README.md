@@ -8,4 +8,4 @@
 
 <br><br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=silent-codder&label=Profile%20views&color=0e75b6&style=flat" alt="silent-codder" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShreyashAnpat&label=Profile%20views&color=0e75b6&style=flat" alt="silent-codder" /> </p>
