@@ -1,6 +1,6 @@
 
  
- <h1 align="center">Hi 👋, I'm SILENT CODDER</h1>
+ <h1 align="center">Hi 👋, I'm Shreyash Anpat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="center">Know / Using</h3>
